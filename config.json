@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpecrypt",
+        "uuid": 3220500,
+        "checksum": "izgd6o"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
